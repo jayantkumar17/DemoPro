@@ -1,0 +1,11 @@
+﻿{
+  "Id": "CBK4xr61xECoUCQnRnDx3g",
+  "Reference": "9wYZW1NJfkC_mWWRF0y4KQ/CBK4xr61xECoUCQnRnDx3g",
+  "Name": "Acme App",
+  "Type": "App",
+  "Created": "2022-05-20T09:04:06.8351161Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-20T09:04:06.8351161Z"
+}

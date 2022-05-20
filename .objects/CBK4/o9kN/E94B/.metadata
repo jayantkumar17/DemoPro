@@ -1,0 +1,15 @@
+﻿{
+  "Id": "E94BR-p10kS0geolRwGhCg",
+  "Reference": "9wYZW1NJfkC_mWWRF0y4KQ/E94BR-p10kS0geolRwGhCg",
+  "ParentRef": "9wYZW1NJfkC_mWWRF0y4KQ/o9kNcTq3HEeqNsfQPUAd-g",
+  "Name": "Home Acme",
+  "Type": "Screen",
+  "Created": "2022-05-20T09:04:15.5605967Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-20T09:04:27.1885843Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "sgW0E-oE5Eac4nfstOiv-g",
+  "Reference": "9wYZW1NJfkC_mWWRF0y4KQ/sgW0E-oE5Eac4nfstOiv-g",
+  "ParentRef": "9wYZW1NJfkC_mWWRF0y4KQ/E94BR-p10kS0geolRwGhCg",
+  "Name": "Password",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-05-20T09:05:16.8147883Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-20T09:05:31.8847343Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
